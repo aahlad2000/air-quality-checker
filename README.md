@@ -1,5 +1,5 @@
 # Air Quality Checker Mobile Apllication
-Mobile Application for and IOT project using Flutter framework
+Mobile Application to display Air quality using various metrics. Tech Stack : Flutter, IBM Cloud.
 <br /><br />
 <br /><br />
 <br /><br />
